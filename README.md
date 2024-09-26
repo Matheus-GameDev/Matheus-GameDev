@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matheus-GameDev
 - 👀 I’m interested in Gamedev And Level Desing 
-- 🌱 I’m currently learning C# and C+
+- 🌱 I’m currently learning C# and C++
 - 💞️ I’m looking to collaborate on Unity and Unreal Engine Gamedev And Level Desing Projects
 - 📫 How to reach me matheusmstrabalho@gmail.com
 - 😄 Pronouns: He/Him
